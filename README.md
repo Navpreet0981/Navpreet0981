@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development and Full-Stack Development.
 - 🌱 I’m currently learning Website Development, Android Application Development and Database Managment Systems.
 - 💞️ I’m looking to collaborate on Web and Application Development Projects.
-- 📫 How to reach me navpreetsingh2081@gmail.com
+- 📫 How to reach me navi2005saini@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact:  I love learning new technologies and enjoy solving algorithmic challenges in my free time!
 
